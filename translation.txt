@@ -1,0 +1,1157 @@
+testing model models/fullEpoch30 ...
+Est -ce <unk> ? 	Est -ce <nid> ? 	0.37184762954711914
+C' est du pouvoir - dessus 	C' est absurde . 	0.3262906074523926
+Il est ivre . 	Il est ivre . 	0.3166234493255615
+Vous êtes maigrichon . 	Vous êtes <nid> . 	0.31505846977233887
+Tout le monde était heureux . 	Tous étaient heureux . 	0.3140738010406494
+Vous semblez occupées . 	Tu sembles occupé . 	0.31486082077026367
+Les affaires sont en train de 	Les temps changent . 	0.314713716506958
+Je suis prêt ! 	Je suis prêt ! 	0.31474781036376953
+Ne parlez pas ! 	Ne parle pas ! 	0.31461215019226074
+Nous sommes ici . 	Nous y sommes . 	0.3145139217376709
+Sommes - nous en train de 	Partons - nous ? 	0.31416797637939453
+Nous sommes <unk> . 	Nous sommes séparés . 	0.3140721321105957
+Nous sommes mariés . 	Nous sommes mariés . 	0.31409788131713867
+Vous êtes surmené . 	Tu es sournois . 	0.3133847713470459
+Vous êtes fidèle . 	Vous êtes <nid> . 	0.3137781620025635
+Nous sommes <unk> . 	Nous sommes malchanceux . 	0.3144199848175049
+Vous êtes grands . 	Vous êtes grand . 	0.3150632381439209
+Je vais bien . 	Tout va bien . 	0.3144338130950928
+Ils travaillent dur . 	Elles travaillent dur . 	0.31500792503356934
+Elles sont partis . 	Elles sont parties . 	0.3150157928466797
+C' est suffisant . 	Ça suffit   ! 	0.3150041103363037
+Ça semble juste . 	Ça semble correct . 	0.31472110748291016
+Nous sommes surpris . 	Nous sommes surprises . 	0.314788818359375
+Levez les mains ! 	Lève les mains ! 	0.3145713806152344
+Essaie ceci ! 	Essayez plutôt ceci . 	0.3149092197418213
+Je me suis mieux mieux . 	Je méritais mieux . 	0.31485724449157715
+Nous sommes satisfaits . 	Nous sommes satisfaits . 	0.3148612976074219
+Vous êtes fiable . 	Vous êtes <nid> . 	0.31497907638549805
+Surveille ton lacet . 	Surveille tes <nid> ! 	0.3152167797088623
+Choisis une carte ! 	<nid> une carte ! 	0.31652164459228516
+Je suis en train de mourir 	Je me meurs . 	0.31565284729003906
+Ne t' interromps pas . 	N' interrompez pas ! 	0.31632041931152344
+Quelle minute ! 	Écoute une minute ! 	0.31497859954833984
+Je vais bien . 	Je vais bien . 	0.31404948234558105
+Prenez Tom dehors . 	Emmène Tom dehors . 	0.3143775463104248
+Vous êtes <unk> . 	Vous êtes <nid> . 	0.3137965202331543
+Viens - tu ? 	Viens - tu ? 	0.3155374526977539
+Vous êtes maigrichon . 	Vous êtes courtois . 	0.31426262855529785
+Arrête de hurler ! 	Arrêtez de <nid> ! 	0.3152484893798828
+C' est super . 	C' est fantastique ! 	0.31500792503356934
+Nous avons refusé . 	Nous avons refusé . 	0.31577181816101074
+Je suis rapide . 	Je suis rapide . 	0.3162565231323242
+Ne quittez pas ! 	Ne partez pas ! 	0.31591796875
+Vous êtes idiote . 	Tu es idiote . 	0.31478261947631836
+C' est marrant . 	C' est rigolo . 	0.3158600330352783
+Vous êtes <unk> . 	Tu es tatillon . 	0.3156716823577881
+Il est tard . 	Il est tard . 	0.31642818450927734
+Attache tes lacets . 	Noue tes chaussures . 	0.31681227684020996
+Vous êtes <unk> . 	Vous êtes <nid> . 	0.31522083282470703
+J' étais stupide . 	J' étais stupide . 	0.3146071434020996
+Je suis fiable . 	Je suis difficile . 	0.3165407180786133
+Ferme la fenêtre ! 	Ferme la fenêtre . 	0.3153407573699951
+C' est nouveau . 	C' est nouveau . 	0.31533193588256836
+Ouvrez la porte ! 	Ouvrez la porte ! 	0.3141293525695801
+Vous paraissez fatiguée . 	Vous paraissez fatigués . 	0.31391358375549316
+Elle est enceinte . 	Elle attend famille . 	0.3138272762298584
+C' était acceptable . 	Elle était déverrouillée . 	0.31400156021118164
+Attends un peu ! 	Attends un peu . 	0.3157064914703369
+Tom est drôle . 	Tom est drôle . 	0.3155660629272461
+L' amour tes voisins . 	Aime ton prochain . 	0.31393957138061523
+C' était <unk> . 	C' était excessif . 	0.3143646717071533
+Je suis sourd . 	Je suis sourde . 	0.31390833854675293
+Regarde - moi ! 	Regarde - moi . 	0.3152127265930176
+Prends une douche ! 	Prends une douche ! 	0.3144369125366211
+Vous êtes charmant . 	Vous êtes <nid> . 	0.31488990783691406
+Elle l' a remercié . 	Elle l' <nid> . 	0.3149073123931885
+Mange ton lacet . 	Mangez vos légumes ! 	0.3139500617980957
+Laisse Tom dormir . 	Laissez Tom dormir . 	0.3141305446624756
+Laisse la arme ! 	Lâchez l' arme ! 	0.31398439407348633
+Tom semble dangereux . 	Tom semble dangereux . 	0.31355857849121094
+Vous êtes <unk> . 	Tu es <nid> . 	0.3138394355773926
+Tout va bien . 	Tout va bien . 	0.3144361972808838
+Crois - le ! 	Envoie - le ! 	0.3153078556060791
+Elles sont mignonne . 	Ils sont mignons . 	0.31502270698547363
+C' est important . 	C' est silencieux . 	0.31500697135925293
+Buvez votre lait ! 	Bois ton lait . 	0.314680814743042
+C' est super . 	C' est effarant . 	0.3150444030761719
+Nous nous <unk> . 	Nous y arriverons . 	0.3149120807647705
+Nous sommes <unk> . 	Nous sommes <nid> . 	0.31509876251220703
+Son père est mort . 	Son père mourut . 	0.31471967697143555
+J' ai grandi . 	J' ai foiré . 	0.31466007232666016
+Ne bougez pas ! 	Ne tirez pas ! 	0.31412339210510254
+Je travaille ici . 	Je travaille ici . 	0.3138296604156494
+Veuillez être prudente . 	Veuillez être prudents . 	0.3139486312866211
+Faites une décision ! 	<nid> - vous ! 	0.3140275478363037
+Tout est parti . 	Tout est parti . 	0.31406688690185547
+Mettez - le . 	Pose - le ! 	0.3138773441314697
+Ouvrez les yeux . 	Ouvrez vos yeux . 	0.31433606147766113
+Il s' agit de sommeil . 	Il est minuit . 	0.31426405906677246
+Nous l' <unk> . 	Nous l' <nid> . 	0.3147144317626953
+C' est grand . 	C' est gros . 	0.3138265609741211
+Je pars . 	Je me tire . 	0.3132035732269287
+Vous êtes <unk> . 	Tu es <nid> . 	0.3134903907775879
+Vous êtes dépourvue d' ambition . 	Vous êtes <nid> . 	0.3134796619415283
+Nous sommes sérieux . 	Nous sommes sérieux . 	0.31352877616882324
+Nous vous voulons . 	Nous vous voulions . 	0.31379199028015137
+Regarde ! 	Regardez - le ! 	0.3135380744934082
+Laisse ma maison ! 	Quitte ma maison ! 	0.313551664352417
+Tom est arrivé . 	Tom est arrivé . 	0.31443071365356445
+C' est dépassé . 	C' est incroyable . 	0.3148231506347656
+Elle le comprend . 	Elle le comprend . 	0.3144674301147461
+Je comprends . 	Je comprends réellement . 	0.3146524429321289
+Vous êtes merveilleux . 	Tu es merveilleuse . 	0.3143749237060547
+Va chercher votre manteau ! 	Prends ton manteau . 	0.31323766708374023
+Vous êtes maigrichon . 	Vous êtes <nid> . 	0.3135979175567627
+Tu pleure ? 	<nid> - vous ? 	0.31421446800231934
+C' est intéressant . 	C' est intéressant . 	0.3138306140899658
+Ils sont médecins . 	Elles sont artistes . 	0.31383514404296875
+Veuillez être prudente . 	Veuillez être prudent . 	0.31430482864379883
+Je parle français . 	Je parle français . 	0.31443047523498535
+L' amour va <unk> . 	L' amour prévaudra . 	0.3142428398132324
+Tout est bien . 	Tout va bien . 	0.31444430351257324
+Soyez très prudentes ! 	Sois très prudent ! 	0.31456756591796875
+Je le suppose . 	Je le suppose . 	0.3146955966949463
+Vous êtes <unk> . 	Tu es avide . 	0.3149411678314209
+Je suis ponctuelle . 	Je suis ponctuel . 	0.31458568572998047
+Vous êtes mince . 	Tu es <nid> . 	0.31448888778686523
+Elle l' a frappé . 	Elle le frappa . 	0.3150029182434082
+Je déteste ça . 	Je déteste ça . 	0.3145413398742676
+Il est en colère . 	Il est <nid> . 	0.3144533634185791
+Je suis surpris . 	Je suis surprise . 	0.3149378299713135
+Est -ce nuageux ? 	Est -ce illégal ? 	0.31474828720092773
+C' est juste . 	C' est exact . 	0.31462860107421875
+<unk> ceci . 	Venez par ici ! 	0.3146834373474121
+Elles étaient naïve . 	Elles étaient naïves . 	0.31571197509765625
+Est -ce loin ? 	Est -ce éloigné ? 	0.3160567283630371
+Vous êtes <unk> ! 	Vous êtes <nid> ! 	0.31566762924194336
+C' est du coup de volontaires 	C' est <nid> . 	0.315723180770874
+Est -ce exact ? 	Est -ce douloureux ? 	0.31760382652282715
+Qui le veut ? 	Qui en veut ? 	0.3160836696624756
+Nous vous voulons . 	Nous te voulions . 	0.31505846977233887
+Vous semblez contrariée . 	Tu sembles contrarié . 	0.314849853515625
+Elle l' a étranglé . 	Elle l' <nid> . 	0.3151118755340576
+Vous êtes égoïste . 	Vous êtes fascinant . 	0.3162837028503418
+Il était <unk> . 	Il fut <nid> . 	0.31517934799194336
+Regarde tes poches ! 	Vérifie tes poches ! 	0.314913272857666
+Nous sommes désolés . 	Nous sommes <nid> . 	0.31597113609313965
+Trouve un boulot ! 	Trouve un boulot ! 	0.31568312644958496
+Vous êtes <unk> . 	Tu es <nid> . 	0.31485486030578613
+Prenez Tom dehors . 	Emmenez Tom dehors . 	0.3148682117462158
+Elle l' aime . 	Elle l' aime . 	0.3161752223968506
+Je les apprécie . 	Je les apprécie . 	0.3153407573699951
+Tom a peur . 	Tom est <nid> . 	0.3146841526031494
+Prends un nombre ! 	Prends un numéro ! 	0.3145139217376709
+J' étais satisfait . 	J' étais satisfaite . 	0.31629061698913574
+Elle est <unk> . 	Elle est <nid> . 	0.3158876895904541
+Tom a été acquitté . 	Tom était humilié . 	0.3153657913208008
+Vous êtes incroyable . 	Tu es incroyable . 	0.3173666000366211
+C' était intéressant . 	C' était intéressant . 	0.3148326873779297
+Il sait nager . 	Il sait nager . 	0.3144240379333496
+Tom a -t -il bu   	Tom est-il resté ? 	0.31463050842285156
+C' est gratuit . 	C' est gratuit . 	0.31464409828186035
+Veuillez me montrer un peu de 	Excusez ma <nid> . 	0.31562209129333496
+Il passe tout de suite . 	Il s' <nid> . 	0.3155996799468994
+Elle le <unk> . 	Elle l' <nid> . 	0.3142385482788086
+Vous êtes connue . 	Vous êtes connu . 	0.3139228820800781
+Restez simplement à avancer ! 	Continuez à avancer ! 	0.31404829025268555
+Tom a prévenu Mary . 	Thomas avertit Marie . 	0.3147542476654053
+Tu es invitée . 	Tu es invité . 	0.3152191638946533
+Vous êtes malade ! 	Vous êtes malade ! 	0.31443047523498535
+Ne sois pas folle ! 	Ne meurs pas ! 	0.3144197463989258
+Vous êtes <unk> . 	Vous êtes intrépide . 	0.31447458267211914
+Nous sommes <unk> . 	Nous sommes <nid> . 	0.31481432914733887
+Il est ennuyeux . 	Il est embêtant . 	0.3149402141571045
+Vous êtes créative . 	Vous êtes créatif . 	0.3146231174468994
+Vous êtes surmené . 	Vous êtes <nid> . 	0.31479406356811523
+Vous êtes égoïste . 	Tu es <nid> . 	0.31390857696533203
+J' ai été horrifié . 	J' étais horrifié . 	0.3142213821411133
+C' était <unk> . 	C' était incroyable . 	0.3141913414001465
+Vous êtes <unk> . 	Vous êtes <nid> . 	0.3143439292907715
+Ferme la porte ! 	Fermez la porte ! 	0.3139331340789795
+Je suis coincée . 	Je suis remonté . 	0.3142971992492676
+Les lapins sont ces menteurs . 	<nid> ces couteaux . 	0.314441442489624
+Il est célibataire . 	Il est célibataire . 	0.31423258781433105
+Je suis anéanti . 	Je suis loyal . 	0.3150649070739746
+Je suis divorcé . 	Je suis <nid> . 	0.3142380714416504
+Je suis malade . 	Je suis malade . 	0.31416988372802734
+Ils sont inutiles . 	Ils sont inutiles . 	0.3144669532775879
+Nous nous manques . 	Vous nous manquez . 	0.3149874210357666
+Il avait été volé . 	Il avait neigé . 	0.3156778812408447
+C' est idiot . 	C' est bête . 	0.31495094299316406
+Il est sans pitié . 	Il est impitoyable . 	0.3146514892578125
+C' était efficace . 	Ce fut efficace . 	0.3144652843475342
+C' est dépassé . 	C' est <nid> . 	0.31504082679748535
+Parle . 	Parle avec moi . 	0.31488704681396484
+Il est Américain . 	Il est fou . 	0.3144834041595459
+Il est jeune . 	Il est jeune . 	0.3149683475494385
+Elle est calme . 	Elle est tranquille . 	0.3146090507507324
+Elles sont heureuses . 	Elles sont heureuses . 	0.3145434856414795
+Tout est-il prêt ? 	Tout est-il prêt ? 	0.3145167827606201
+L' air est arrivé . 	<nid> le futon ! 	0.3151369094848633
+Verrouille la porte ! 	Verrouille la porte ! 	0.31496405601501465
+Nous sommes <unk> . 	Nous sommes <nid> . 	0.31458139419555664
+C' est un garçon ! 	C' est bien ! 	0.31456518173217773
+Laisse Tom décider . 	Laisse Tom décider . 	0.3149127960205078
+Vous êtes ambitieuse . 	Tu es <nid> . 	0.31470561027526855
+Ça a l' air intéressant . 	Ça semble intéressant . 	0.31459927558898926
+Il aime dormir . 	Il aime dormir . 	0.31450533866882324
+Nous avons attendu dehors . 	Nous attendîmes dehors . 	0.3151123523712158
+Il écrit l' arabe . 	Il écrit arabe . 	0.31475400924682617
+Vous êtes prudente . 	Tu es prudente . 	0.31404685974121094
+Nous sommes même . 	Nous sommes quittes . 	0.31488919258117676
+J' étais détendu . 	J' étais terrifié . 	0.31522274017333984
+J' aime ça . 	J' apprécie cela . 	0.3147411346435547
+Elle était naïve . 	Elle était crédule . 	0.3144991397857666
+Ça ne voulait pas dire . 	Ça signifiait non . 	0.3141908645629883
+Tom est <unk> . 	Tom est <nid> . 	0.31369566917419434
+Je suis sûr . 	Je suis sûr . 	0.31354618072509766
+Vous êtes dure . 	Vous êtes dure . 	0.3144409656524658
+Nous sommes triste . 	Nous sommes tristes . 	0.31406712532043457
+C' est improbable . 	C' est exact . 	0.31472015380859375
+Suis mon conseil . 	Suivez mon conseil . 	0.3141615390777588
+Je suis dépourvue de pouvoir . 	Je suis <nid> . 	0.31388163566589355
+Il est décédé . 	Il est décédé . 	0.3141324520111084
+Il déteste courir . 	Il déteste courir . 	0.31418657302856445
+C' est particulier . 	C' est personnel . 	0.31430554389953613
+Je vous prie de vous . 	Je te prie . 	0.3143181800842285
+Nous sommes <unk> . 	On est foutu . 	0.3143019676208496
+C' était impressionnant . 	C' était dégueulasse . 	0.3140740394592285
+Dis juste oui ! 	Dis juste oui ! 	0.31394314765930176
+Nous sommes <unk>   ! 	Nous sommes <nid> ! 	0.3155510425567627
+Levez les mains ! 	Levez les mains ! 	0.3148813247680664
+Je suis chanceux . 	Je suis veinarde . 	0.31646060943603516
+Vous <unk> Tom . 	Tu <nid> Tom . 	0.3160207271575928
+Tout est calme . 	Tout est tranquille . 	0.3155519962310791
+Je suis <unk> . 	Je suis myope . 	0.31649160385131836
+Il est dérangé . 	Il est méchant . 	0.3149399757385254
+Ça semble approprié . 	Ceci semble excessif . 	0.31571412086486816
+Fais ton lit ! 	Faites votre lit ! 	0.3153517246246338
+Il s' est <unk> . 	Il a <nid> . 	0.31575751304626465
+Vous êtes productive . 	Vous êtes <nid> . 	0.31510329246520996
+Vous êtes ambitieuse . 	Vous êtes ambitieux . 	0.314525842666626
+Ouvrez les portes ! 	Ouvrez les portes ! 	0.31604623794555664
+J' étais bon . 	Je fus bonne . 	0.3153533935546875
+Elle l' a rejeté . 	Elle le rejeta . 	0.315509557723999
+Je peux expliquer . 	Je peux expliquer . 	0.3149251937866211
+Je suis blessé . 	Je suis gêné . 	0.3147611618041992
+Mange tes affaires ! 	Mange tes épinards ! 	0.31470465660095215
+<unk> tes affaires ! 	<nid> votre matériel ! 	0.3142070770263672
+Je t' ai vue . 	Je vous vis . 	0.3159463405609131
+J' ai oublié . 	J' ai oublié . 	0.3161914348602295
+Il est innocent . 	Il est <nid> . 	0.3150150775909424
+Quelque chose cloche . 	Quelque chose manque . 	0.31612372398376465
+Elle sent mauvais . 	Elle sent mauvais . 	0.3156306743621826
+Il parle chinois . 	Il parle chinois . 	0.31490612030029297
+Ne quittez pas ! 	Ne pars pas ! 	0.31454896926879883
+Elle adore chanter . 	Elle adore chanter . 	0.31458568572998047
+C' est ridicule ! 	C' est <nid> ! 	0.31462931632995605
+Je vous envie . 	Je t' envie . 	0.3156116008758545
+Tom le sait . 	Tom sait ça . 	0.3158104419708252
+Oubliez - la . 	Oublie - la . 	0.3165006637573242
+Revenez ici ! 	Signe juste ici . 	0.31502532958984375
+Appelle un médecin ! 	Appelle un médecin ! 	0.3147459030151367
+Nous sommes apparentées . 	Nous sommes sournois . 	0.3148977756500244
+Je l' ai compris . 	J' ai compris . 	0.314434289932251
+Nous sommes dépourvues de préjugés . 	Nous sommes <nid> . 	0.31400322914123535
+Nous sommes prudents . 	Nous sommes prudentes . 	0.3141663074493408
+C' est bizarre . 	C' est étrange . 	0.3140130043029785
+Vous êtes <unk> . 	Tu es <nid> . 	0.31403493881225586
+Vous êtes <unk> ! 	Vous êtes <nid> ! 	0.3145461082458496
+Qu' est -ce que c' est 	Qu' est cela ? 	0.3140420913696289
+Est -ce <unk> ? 	Est -ce garanti ? 	0.3140707015991211
+Ferme la <unk> . 	Fermez les <nid> . 	0.3142573833465576
+J' étais naïve . 	J' étais naïf . 	0.31450891494750977
+Tout est dur . 	Tout est dur . 	0.31447410583496094
+C' est sympa . 	C' est cool . 	0.31432557106018066
+Tom étudie dur . 	Tom étudie beaucoup . 	0.3141498565673828
+Elles nous connaissent . 	Elles nous connaissent . 	0.31375718116760254
+Les soldats ont ri . 	Les soldats rirent . 	0.31351542472839355
+Je suis curieux . 	Je suis curieux . 	0.3138253688812256
+C' est ça . 	C' est ça . 	0.3135056495666504
+C' est du projet . 	C' est absurde . 	0.31403470039367676
+Vous êtes dure . 	Vous êtes dures . 	0.31439709663391113
+Faites ton repas ! 	Bon appétit   ! 	0.31450581550598145
+C' était terrible . 	Ce fut horrible . 	0.31471920013427734
+Ouvrez la bouche ! 	Ouvrez la bouche ! 	0.3145334720611572
+Je suis fatigué . 	Je suis fatigué ! 	0.31459999084472656
+Revenez ici ! 	Signez juste ici . 	0.3146834373474121
+Vous étiez heureux . 	Tu étais heureux . 	0.3150906562805176
+Je suis prise à la maison 	Je suis offensé . 	0.3149573802947998
+Je suis prêt . 	Je suis préparée . 	0.3150293827056885
+C' est <unk> . 	C' est <nid> . 	0.3148915767669678
+C' est faible . 	C' est mauvais . 	0.31481266021728516
+Je suis timide . 	Je suis timide . 	0.3144817352294922
+Finis ton verre ! 	Finis ton verre ! 	0.3147881031036377
+Ils sont allés . 	Elles devinrent folles . 	0.3143124580383301
+Vous êtes <unk> . 	Tu es <nid> . 	0.3140678405761719
+Vous êtes fiable . 	Tu es suffisante . 	0.31464385986328125
+Tu es perdu . 	Tu es perdue . 	0.31488490104675293
+Elle est français . 	Elle est française . 	0.3144042491912842
+Tom a été lavé . 	Tom était sarcastique . 	0.3149993419647217
+Nous <unk> tous . 	Nous <nid> toutes . 	0.31461334228515625
+Vous êtes paresseux . 	Vous êtes paresseuses . 	0.31452322006225586
+C' est adorable . 	C' est <nid> . 	0.31434059143066406
+Il me faut partir . 	Je dois partir . 	0.31467318534851074
+Elle parla avec des <unk> . 	Elle parla <nid> . 	0.3142244815826416
+J' ai été horrifié . 	Je fus horrifié . 	0.31462693214416504
+Ils se sont <unk> . 	Elles s' <nid> . 	0.3137819766998291
+Apporte une bouchée ! 	Apporte une <nid> ! 	0.31397533416748047
+Est -ce important ? 	Est -ce grave ? 	0.31350231170654297
+Est -ce que ça a fini 	Est -ce terminé ? 	0.3138725757598877
+Vous êtes grands . 	Vous êtes grande . 	0.31396985054016113
+Je te comprends . 	Je vous comprends . 	0.31336522102355957
+Vous êtes ponctuelle . 	Tu es ponctuel . 	0.31431078910827637
+Je suis divorcé . 	Je suis <nid> . 	0.31396961212158203
+Vous êtes incorrigible . 	Tu es agité . 	0.3141787052154541
+Soyez plus flexible . 	Soyez davantage flexible . 	0.314497709274292
+Je suis guérie . 	Je suis sidéré . 	0.31405162811279297
+Il était Anglais . 	Il était Anglais . 	0.31399035453796387
+Arrête juste ici ! 	Arrêtez juste ici ! 	0.31372785568237305
+Tom est allé à l' intérieur 	Tom est entré . 	0.3141019344329834
+Prends de la <unk> . 	Prends du <nid> . 	0.31383442878723145
+Ça semblait sans doute . 	Ça semblait probable . 	0.31464338302612305
+Il s' est tourné . 	Il tourna autour . 	0.31551098823547363
+Vous êtes <unk> . 	Tu es branché . 	0.3150207996368408
+Tom a tué Mary . 	Tom tua Mary . 	0.31470823287963867
+Verrouille tes portes ! 	Verrouille tes portes ! 	0.315537691116333
+Vous êtes connue . 	Vous êtes <nid> . 	0.3148653507232666
+Vous êtes sympa . 	T' es <nid> . 	0.31494784355163574
+Nous travaillerons . 	Nous y <nid> . 	0.31528592109680176
+Nous sommes dépourvues de préjugés . 	Nous sommes <nid> . 	0.3155484199523926
+Vous êtes bizarre . 	Tu es bizarre . 	0.31467771530151367
+J' ai été <unk> . 	J' étais inconsciente . 	0.3148980140686035
+Je peux respirer . 	Je peux remettre . 	0.3155488967895508
+Elle l' a frappé . 	Elle l' <nid> . 	0.3162550926208496
+Je suis épuisé . 	Je suis crevé . 	0.3152191638946533
+Je suis <unk> . 	Je suis <nid> . 	0.31496238708496094
+Il a travaillé dur . 	Il travailla dur . 	0.3156294822692871
+Je t' ai vue . 	Je te vis . 	0.31610918045043945
+Elle le déteste . 	Elle le <nid> . 	0.3154945373535156
+Tom a ri de <unk> . 	Tom <nid> nerveusement . 	0.31524133682250977
+Vous êtes endormie . 	Vous êtes endormis . 	0.3166389465332031
+Il était naïve . 	Il était naïf . 	0.31508755683898926
+Je suis patient . 	Je suis patiente . 	0.3144724369049072
+Il est paresseux . 	Il est fainéant . 	0.31641554832458496
+Vous êtes surmené . 	Tu es sournoise . 	0.3158409595489502
+Faites une décision ! 	Prenez une décision ! 	0.31493067741394043
+Elles ont dit non . 	Elles dirent non . 	0.31473708152770996
+Vous êtes ennuyeux . 	T' es chiant . 	0.31421709060668945
+Oubliez vos <unk> . 	Oublie tes <nid> . 	0.31429004669189453
+Je pourrais intervenir . 	Je pourrais intervenir . 	0.3138754367828369
+Je sais ceci . 	Je le sais . 	0.3141748905181885
+Vous êtes égoïste . 	Tu es précis . 	0.3143959045410156
+Tu gagnes . 	Vous l' <nid> . 	0.31590819358825684
+Nous avons éclaté . 	Nous avons rompu . 	0.3163013458251953
+Vous êtes charmant . 	Tu es charmante . 	0.3145029544830322
+Tout est cassé . 	Tout est cassé . 	0.3138465881347656
+<unk> un médecin ! 	<nid> un médecin ! 	0.31388163566589355
+Est -ce sain ? 	Est -ce sale ? 	0.3143463134765625
+C' est compliqué . 	C' est sage . 	0.3145904541015625
+<unk> votre cravate ! 	<nid> ta cravate ! 	0.31409788131713867
+Lis l' article . 	Lisez l' article . 	0.31435155868530273
+Je suis anéanti . 	Je suis <nid> . 	0.31413817405700684
+Allons - y ! 	Allons - y ! 	0.3138546943664551
+Je suis <unk> . 	Je suis <nid> . 	0.3139073848724365
+Elle est vieille . 	Elle est vieille . 	0.31384992599487305
+Elles sont fortes . 	Ils sont forts . 	0.31411314010620117
+Vous êtes belle . 	Vous êtes beaux . 	0.31455206871032715
+Soyez très prudentes ! 	Soyez très prudent ! 	0.3142890930175781
+J' ai grandi . 	J' ai <nid> . 	0.31418371200561523
+C' était super . 	C' <nid> super . 	0.3141975402832031
+Nous sommes libres . 	Nous sommes reconnaissants . 	0.3141300678253174
+Personne ne répondit . 	Personne ne répondit . 	0.31410861015319824
+Je suis fiable . 	Je suis fiable . 	0.31427860260009766
+Ne <unk> pas ! 	Ne <nid> pas ! 	0.31456661224365234
+Nous le savais . 	Nous savions cela . 	0.31420469284057617
+Soyez très prudentes ! 	Soyez très prudents ! 	0.314650297164917
+Notre équipe a perdu . 	Notre équipe perdit . 	0.3149404525756836
+Elle cuisine bien . 	Elle cuisine bien . 	0.31481218338012695
+Veuillez rester assise . 	Veuillez rester assises . 	0.3146507740020752
+Vous êtes bons . 	Vous êtes bon . 	0.3148081302642822
+C' est injuste . 	C' est injuste . 	0.3145909309387207
+Choisis une personne . 	Choisissez une personne . 	0.31420302391052246
+Je suis dépourvu de talent . 	Je suis reposé . 	0.31470561027526855
+Il le nia . 	Il le nia . 	0.3148658275604248
+J' étais bon . 	Je fus bon . 	0.31446242332458496
+J' adore ça ! 	J' adore ça ! 	0.31448960304260254
+J' ai été horrifié . 	Je fus horrifiée . 	0.3140263557434082
+Qui est-il   ? 	Qui est-il   ? 	0.3141491413116455
+Tout a été faux . 	Tout était faux . 	0.3144960403442383
+Il conduit de manière excessive . 	Il conduit brutalement . 	0.31476378440856934
+Rien ne fonctionne . 	Rien ne marche . 	0.31375956535339355
+Je vous remercie . 	Je te remercie . 	0.31458353996276855
+Tom a -t -il brisé   	Tom est-il tombé ? 	0.3141961097717285
+Je suis puissante . 	Je suis puissant . 	0.3138556480407715
+Tout est fini . 	Tout est fini . 	0.31409692764282227
+Tom était dangereux . 	Tom était dangereux . 	0.3140256404876709
+Je les connais . 	Je les connais . 	0.3142871856689453
+Je suis paresseux . 	Je suis fainéant . 	0.314284086227417
+Je déteste voyager . 	Je déteste voyager . 	0.3140747547149658
+Vous êtes riches . 	Vous êtes riches . 	0.31401944160461426
+Je sais skier . 	Je sais skier . 	0.31407666206359863
+Je déteste danser . 	Je déteste danser . 	0.3143751621246338
+Ils sont devenus amis . 	Ils restèrent amis . 	0.31403136253356934
+Vous êtes dure . 	Tu es dur . 	0.3138406276702881
+Nous partons immédiatement . 	Nous partons immédiatement . 	0.3145732879638672
+Je suis guérie . 	Je suis <nid> . 	0.31469225883483887
+Tom a <unk> de haute voix 	Tom <nid> bruyamment . 	0.31487035751342773
+Levez la main ! 	Lève la main . 	0.31473755836486816
+C' est dépassé . 	C' est <nid> . 	0.3151679039001465
+Je suis <unk> . 	Je suis <nid> . 	0.31456470489501953
+Il est venu en bas . 	Il est descendu . 	0.3146088123321533
+Vous avez l' air fatigué . 	Tu sembles fatigué . 	0.31467294692993164
+Vous êtes impatient . 	Tu es impatiente . 	0.3142383098602295
+Vous êtes <unk> . 	Vous êtes <nid> . 	0.31461119651794434
+Nous sommes   ! 	Nous y voilà ! 	0.3144497871398926
+Tout est présents . 	Toutes sont présentes . 	0.3149223327636719
+C' était nuageux . 	C' était prometteur . 	0.31393957138061523
+Je suis <unk> . 	Je suis <nid> . 	0.3146359920501709
+Vous êtes maigrichon . 	Vous êtes courtoise . 	0.31461381912231445
+C' est logique . 	C' est minable . 	0.31505656242370605
+Je partage Tom . 	Je méprise Tom . 	0.31645989418029785
+C' est dépassé . 	C' est <nid> . 	0.3160669803619385
+Vous paraissez fatiguée . 	Tu parais fatigué . 	0.31480932235717773
+Nous sommes étudiants . 	Nous sommes étudiants . 	0.3148210048675537
+Je suis populaire . 	Je suis populaire . 	0.3164541721343994
+C' est dépassé . 	C' est <nid> . 	0.3152027130126953
+Va tout droit . 	Va tout droit ! 	0.31466078758239746
+Je suis désolée . 	Je suis désolée . 	0.3151538372039795
+Quel <unk> ! 	Quel <nid> ! 	0.3160591125488281
+Je vais commencer . 	Je <nid> . 	0.31508970260620117
+Merci ! 	Merci bien . 	0.31664037704467773
+Quel <unk> ! 	Quelle <nid> ! 	0.3157634735107422
+Je conduis . 	Je conduirai . 	0.31563687324523926
+Nous nous <unk> . 	Nous <nid> . 	0.31462979316711426
+Tom va continuer . 	Tom <nid> . 	0.3149757385253906
+Nous <unk> . 	Nous <nid> . 	0.3148682117462158
+Tom est en train de voler 	Tom transpire . 	0.3160557746887207
+Comment êtes - vous ? 	Ça va ? 	0.31500768661499023
+Quelle douleur ! 	Quelle plaie . 	0.3144187927246094
+Quel <unk> ! 	Quel <nid> ! 	0.31668639183044434
+Tu plaisantes ! 	Tu plaisantes ! 	0.3159158229827881
+Tom est en train de partir 	Tom partit . 	0.31462621688842773
+Vous êtes <unk> . 	Tu <nid> . 	0.3143177032470703
+Nous l' <unk> . 	Nous <nid> . 	0.3145279884338379
+J' irai . 	J' irai . 	0.3141634464263916
+C' est sans espoir . 	Ça convient . 	0.3144195079803467
+Ça sent pire . 	Ça empire . 	0.31404733657836914
+Dis ça ! 	<nid> ça ! 	0.3149104118347168
+Faites juste une minute ! 	Une minute . 	0.3163001537322998
+Tom marchait en arrière . 	Tom entra . 	0.3155858516693115
+Je reviendrai . 	Je <nid> . 	0.3143892288208008
+Je suis <unk> . 	Je <nid> . 	0.31435513496398926
+J' essaierai . 	J' essaierai . 	0.31446027755737305
+Regardez ça ! 	<nid> ça . 	0.31456542015075684
+Arrête de demain ! 	Reviens demain . 	0.3146347999572754
+De la nourriture rouge   ! 	Bonne année ! 	0.3151383399963379
+Nous partons . 	Nous essayons . 	0.314697265625
+Tom plaisante . 	Tom démissionne . 	0.3144338130950928
+Qui va payer ? 	Qui paiera ? 	0.3139960765838623
+La voici . 	Le voilà . 	0.31455516815185547
+Je vais me lever . 	Je passerai . 	0.3145778179168701
+Nous nous ferons . 	Nous déciderons . 	0.3149220943450928
+Vous plaisantez ? 	Tu plaisantes ? 	0.3144392967224121
+Ça sent mauvais . 	Ça pue . 	0.3147470951080322
+Prends un marcher ! 	Allez marcher ! 	0.31441545486450195
+Prenez tout ! 	Prends tout ! 	0.31423020362854004
+J' appellerai . 	J' appellerai . 	0.3144068717956543
+Nous nous en allons . 	Nous irons . 	0.31497907638549805
+Noël approche . 	Noël approche . 	0.31456494331359863
+Je plaisante . 	Je rigole ! 	0.31458520889282227
+Rends - le . 	Laisse tomber . 	0.31452226638793945
+Vous serez en train de mourir 	Tu <nid> . 	0.3140249252319336
+Il va comprendre . 	Il <nid> . 	0.31461286544799805
+C' est en train d' étudier 	Il neige . 	0.3143491744995117
+Je reviendrai . 	Je reviendrai . 	0.31436586380004883
+Faites juste un instant ! 	Un instant ... 	0.3140885829925537
+Prends place ! 	Prenez place . 	0.31454014778137207
+Va au lit ! 	Au lit ! 	0.31429386138916016
+Ça fonctionnera . 	Ça marchera . 	0.3137814998626709
+Restez alité ! 	Reste alitée ! 	0.31353235244750977
+Ils parlent . 	Ils parlent . 	0.31388401985168457
+Il est <unk> . 	Il <nid> . 	0.31400132179260254
+Je <unk> . 	Je <nid> . 	0.31384801864624023
+Nettoie ça . 	Nettoyez ça . 	0.313889741897583
+<unk> - le   ! 	Arrêtez ! 	0.3144552707672119
+C' est super   ! 	<nid> ! 	0.3147246837615967
+<unk> - toi   ! 	<nid> ! 	0.31458258628845215
+<unk> - toi   ! 	<nid> ! 	0.3145458698272705
+Fais un hypothèse ! 	Devine ! 	0.3148002624511719
+Arrêtez ça ! 	Arrête ! 	0.3143882751464844
+Restez simplement à avancer ! 	Continuez ! 	0.3144083023071289
+<unk> ! 	<nid> ! 	0.31437087059020996
+<unk> ! 	Commençons . 	0.31392645835876465
+N' oublie pas à l' écrire 	Oubliez ! 	0.31388044357299805
+Allons danser ! 	<nid> . 	0.31415247917175293
+Regardez ! 	Vérifiez ! 	0.31383371353149414
+Je suis désolée . 	Désolé ! 	0.3144035339355469
+Y a -t -il quelqu' un 	Qui que ce soit est-il à la maison ? 	0.3142735958099365
+Nous nous sommes amusés . 	Nous n' avons pas entendu le réveil . 	0.31427001953125
+Tout le monde a eu de 	Tout le monde a été d' accord . 	0.3141326904296875
+Veuillez venir . 	Viens , s' il te plait . 	0.3148214817047119
+Qui que ce soit est-il blessé 	Quiconque a -t -il été blessé ? 	0.3145754337310791
+Veuillez sourire . 	<nid> , s' il te plaît ! 	0.31432604789733887
+Bien de travers   ! 	À la bonne heure   ! 	0.3142271041870117
+Attrapez ça ! 	Saisissez - vous de ça ! 	0.3144404888153076
+Veuillez chanter . 	<nid> , je vous prie ! 	0.3142220973968506
+Elles ont eu du mal . 	Ils ont eu du mal . 	0.31479811668395996
+Qui se soucie ? 	Qui s' en soucie   ? 	0.3146681785583496
+<unk> - moi ? 	Je vous demande pardon   ? 	0.3144800662994385
+Restez en arrière ! 	Sois de nouveau le bienvenu ! 	0.3144724369049072
+Arrête de <unk> . 	Arrête de <nid> les sourcils ! 	0.3141305446624756
+Quelque chose s' est passé . 	Quelque chose s' est produit . 	0.3146376609802246
+Demande à n' importe qui . 	Demandez à n' importe qui ! 	0.31464123725891113
+Y a -t -il quelqu' un 	Quiconque est-il dans la maison ? 	0.31450533866882324
+Quelque chose s' est passé . 	Quelque chose s' est passé . 	0.31548047065734863
+Tout le monde a applaudi . 	Tout le monde a applaudi . 	0.31596851348876953
+Restez debout . 	Laisse - toi aller ! 	0.3155679702758789
+Va - vous ! 	Va te faire foutre ! 	0.3155033588409424
+De la pluie ! 	De la fumée apparut . 	0.31567811965942383
+Arrête de mentir . 	Arrêtez de me fixer ! 	0.3151981830596924
+Comme c' est <unk> ! 	Comme c' est excitant ! 	0.31515932083129883
+Pas problème ! 	Pas de problème   ! 	0.31525683403015137
+Elles se sont détendus . 	Elles se sont échappées . 	0.3157839775085449
+Fumer , c' est nul ! 	Fumer , ça pue ! 	0.3152334690093994
+Les <unk> à écrire . 	Le devoir m' appelle . 	0.3147130012512207
+Suivez - le ! 	Suis - le   ! 	0.3145010471343994
+Les <unk> . 	Tiens - toi droit . 	0.3162682056427002
+Vous êtes <unk> . 	Vous vous êtes évanouie . 	0.3143470287322998
+Elles sont d' accord . 	Elles sont d' accord . 	0.31455349922180176
+Arrête de te plaindre ! 	Cesse de te plaindre ! 	0.3146498203277588
+Restez à proximité . 	Voyez ci - dessus . 	0.316204309463501
+Je <unk> . 	Je me suis entraîné . 	0.3167901039123535
+Restez encore tranquille ! 	Reste allongé , immobile ! 	0.3164703845977783
+Elles se sont <unk> . 	Ils se sont <nid> . 	0.3153231143951416
+Arrête de hurler ! 	Arrête de hurler . 	0.31467747688293457
+Attention ! 	Retirez - vous . 	0.3147411346435547
+Continue à travailler ! 	Continuez à travailler ! 	0.31490278244018555
+Tenez - vous ! 	Attendez un peu ! 	0.3163011074066162
+Va - vous ! 	Lève - toi . 	0.31598591804504395
+Ils ont eu la frontière . 	Elles ont brûlé . 	0.3150599002838135
+Arrête de hurler ! 	Arrêtez de hurler ! 	0.3145930767059326
+Regardez attentivement . 	Regarde de près ! 	0.3163869380950928
+Aide - toi à toi - 	Servez - vous . 	0.31623220443725586
+Qu' est -ce qu' il y 	Quoi d' autre ? 	0.3147242069244385
+Demande à Tom . 	Demande à Tom . 	0.3149685859680176
+Lave - toi ! 	Lavez - vous ! 	0.3146193027496338
+Laissez - nous ! 	Laissez - nous ! 	0.314342737197876
+Les oiseaux volent . 	Les oiseaux volent . 	0.3146674633026123
+Fais - toi à toi - 	<nid> - toi ! 	0.31477856636047363
+Tenez - vous à l' abri 	Reculez - vous ! 	0.31424641609191895
+Les plantes sont grandes . 	Les plantes poussent . 	0.3144652843475342
+Tom s' est excusé . 	Tom s' excusa . 	0.3145315647125244
+Viens chez toi ! 	Venez chez moi ! 	0.31415724754333496
+C' est bon de faire ! 	C' est exclu ! 	0.3146800994873047
+Prenez - le ! 	Prends - le ! 	0.3145747184753418
+Restez en dehors ! 	Continue à courir . 	0.3141663074493408
+Ils ont eu la frontière . 	Ils ont brûlé . 	0.314406156539917
+Ignore - les . 	<nid> - les . 	0.3144114017486572
+Écrivez quelque chose . 	Écris quelque chose . 	0.31423163414001465
+Montre - toi ! 	Montrez - vous ! 	0.3142077922821045
+Veuillez vous prie ! 	Ferme - la ! 	0.3143808841705322
+Réveille - toi   ! 	Réveillez - vous ! 	0.31444764137268066
+Essayez dur . 	Fais un effort . 	0.3149552345275879
+Ils ont <unk> . 	Elles ont <nid> . 	0.31470823287963867
+Fais - toi à toi - 	<nid> - vous ! 	0.3146083354949951
+Quelqu' un a répondu . 	Quelqu' un répondit . 	0.3144650459289551
+Qui a marché ? 	Qui a hurlé ? 	0.31448817253112793
+J' ai échappé . 	J' ai <nid> . 	0.3143892288208008
+Restez debout . 	Détends - toi ! 	0.31424522399902344
+Arrête de jouer . 	Arrêtez de jouer . 	0.3154447078704834
+Tom a disparu . 	Tom a disparu . 	0.31460118293762207
+Elle a disparu . 	Elle a disparu . 	0.31399083137512207
+Arrête de hurler ! 	Cesse de hurler ! 	0.31433725357055664
+C' est bon de faire ! 	Hors de question ! 	0.31454014778137207
+Je gagne . 	Je le refuse . 	0.31404709815979004
+Continue à rouler ! 	Continue à rouler ! 	0.3142969608306885
+<unk> - le . 	<nid> - le . 	0.3143172264099121
+Montre - moi ! 	Montrez - moi ! 	0.31529831886291504
+Asseyez - vous ! 	Dépêche - toi . 	0.314868688583374
+Suivez - nous ! 	Suis - nous ! 	0.3147873878479004
+Il <unk> . 	Il a <nid> . 	0.31437087059020996
+Je vous prie de m' excuser 	Excuse - moi . 	0.313992977142334
+Nous avons été battus . 	Nous fûmes <nid> . 	0.31487274169921875
+Restez en arrière ! 	Reste en arrière ! 	0.3138096332550049
+Continue à rouler ! 	Continuez à chercher . 	0.313873291015625
+Essaie de nouveau . 	Essaie de nouveau . 	0.31474804878234863
+Je suis resté . 	Je suis restée . 	0.31397581100463867
+Nous avons parlé . 	Nous avons discuté . 	0.3143157958984375
+Nous avons survécu . 	Nous avons survécu . 	0.31392669677734375
+J' ai réussi . 	J' ai survécu . 	0.31426382064819336
+Faites - toi juste . 	Détendez - vous . 	0.314241886138916
+J' ai crié . 	J' ai <nid> . 	0.31442809104919434
+Tenez - vous ! 	Attends un peu ! 	0.3144981861114502
+Nous avons promis . 	Nous avons promis . 	0.31418657302856445
+Soyez clément ! 	Soyez <nid> ! 	0.3138880729675293
+C' est affreux . 	Ça pue . 	0.3142080307006836
+Va - y ! 	Passe devant ! 	0.3140246868133545
+Vous êtes contrariée . 	Tu cours . 	0.31470680236816406
+Restez calme ! 	Restez tranquille ! 	0.3142240047454834
+Sois sérieux ! 	Sois réaliste ! 	0.31426167488098145
+Est -ce que ça est -ce 	<nid>   ? 	0.3144214153289795
+Tenez ça ! 	Tiens ceci ! 	0.3146662712097168
+C' est important . 	Ça compte . 	0.3144819736480713
+Viens ici ! 	Viens ici . 	0.31440281867980957
+C' est bon de faire ! 	<nid>   ! 	0.31482791900634766
+Restez calme ! 	Restez tranquille . 	0.3144416809082031
+Veuillez vous prie ! 	La ferme ! 	0.31406426429748535
+Les lapins ont ri . 	Travaillez lentement ! 	0.31450986862182617
+Soyez gentil ! 	Sois gentille ! 	0.31401848793029785
+Soyez créative ! 	Sois raisonnable ! 	0.3142356872558594
+Soyez juste ! 	Soyez justes ! 	0.31729674339294434
+Tom <unk> . 	Tom <nid> . 	0.3167688846588135
+Regardez attentivement . 	Écoute bien . 	0.3153233528137207
+Attends ici . 	Attendez ici . 	0.3146846294403076
+<unk>   ! 	<nid>   ! 	0.31494712829589844
+Choisissez attentivement . 	Choisis soigneusement . 	0.31557512283325195
+Soyez sérieux ! 	Soyez sérieux ! 	0.31522583961486816
+Veuillez sourire . 	Veuillez sourire ! 	0.31479549407958984
+Sois confiant ! 	Soyez confiant ! 	0.3150656223297119
+Bien sûr ! 	Mais <nid> ! 	0.31609201431274414
+Restez calme ! 	Reste calme . 	0.3159658908843994
+Avance bien . 	Conduis prudemment . 	0.3158862590789795
+Ils nageaient . 	Ils <nid> . 	0.3157355785369873
+C' est important . 	Bien calculé ! 	0.314910888671875
+Tom <unk> . 	Tom <nid> . 	0.31455135345458984
+Sors ! 	Sortez   ! 	0.31464624404907227
+Sois confiant ! 	Soyez confiante ! 	0.31558775901794434
+Mange tout ! 	Mangez tout . 	0.3160262107849121
+Parle clairement . 	Parle <nid> . 	0.31426215171813965
+Viens chez toi ! 	Venez ici ! 	0.31406474113464355
+Demande - toi ! 	Demandez alentour ! 	0.3146538734436035
+Reste détendu ! 	Reste positive ! 	0.31594324111938477
+Tu conduis . 	Vous conduisez . 	0.3148667812347412
+Bonne chance ! 	Bonne chance . 	0.31464481353759766
+Je me prie de me <unk> 	Aucune idée . 	0.3144350051879883
+Soyez créative ! 	Sois créatif ! 	0.3145763874053955
+Viens immédiatement ! 	Viens immédiatement ! 	0.3146839141845703
+Comme c' est horrible   ! 	Quelle horreur ! 	0.31447410583496094
+Soyez calme ! 	Soyez calmes ! 	0.314697265625
+Je sais . 	Je sais . 	0.31624388694763184
+Tom aida . 	Tom aida . 	0.31604862213134766
+Les questions sont - ils ? 	Des questions ? 	0.31496143341064453
+<unk> Tom . 	Préviens Tom . 	0.3143432140350342
+Soyez gentil ! 	Soyez gentille ! 	0.31480956077575684
+Va vite ! 	Allez doucement ! 	0.3143911361694336
+Soyez créative ! 	Soyez <nid> ! 	0.31419873237609863
+Avance ! 	Avancez ! 	0.3144040107727051
+Arrête ça ! 	Arrêtez ! 	0.31423354148864746
+Sors ! 	Sortez ! 	0.31456613540649414
+Sois grand   ! 	Attention ! 	0.31458520889282227
+Les <unk> dans les yeux . 	Montez . 	0.31446003913879395
+Asseyez - vous ! 	<nid> ! 	0.31444573402404785
+Entrez ! 	Allez ! 	0.314561128616333
+Sors ! 	Sors . 	0.3148825168609619
+Va - vous ! 	<nid> ! 	0.3143799304962158
+Va - y ! 	<nid> ! 	0.31482863426208496
+Entrez ! 	Venez ! 	0.3146395683288574
+Arrêtez ! 	Arrête - toi ! 	0.31475114822387695
+Merci ! 	<nid> - <nid> ! 	0.314624547958374
+Arrêtez ! 	<nid>   ! 	0.31519389152526855
+Regardez ! 	Écoutez ! 	0.31434011459350586
+Merci . 	Merci ! 	0.31475138664245605
+Attends   ! 	Attends ! 	0.31481480598449707
+Êtes - vous Tom ? 	Est -ce que tu es Tom ? 	0.315016508102417
+Nous avons tous faim . 	Nous sommes toutes tombées d' accord . 	0.314913272857666
+Je me sens mal au printemps 	J' ai le mal du pays . 	0.3150482177734375
+Tom s' est - il suicidé 	Tom s' est - il battu ? 	0.3144376277923584
+Ça semble juste . 	On dirait que c' est exact . 	0.31481122970581055
+Les prix ont le pantalon . 	Les prix ont fait un <nid> . 	0.31423521041870117
+Tout le monde a <unk> . 	Tout le monde s' est calmé . 	0.31425952911376953
+Tout le monde était sans voix 	Tout le monde était sans voix . 	0.3143477439880371
+Je m' en fais du souci 	Je me fais vraiment du souci . 	0.3143775463104248
+Je me suis senti très bien 	Je me suis très bien sentie . 	0.31440305709838867
+Êtes - vous chez vous ? 	Es - tu à la maison ? 	0.3143930435180664
+Quelque chose se produit - t 	Quelque chose a -t -il lieu ? 	0.3149597644805908
+Les gens aiment la langue . 	Les gens sont <nid> de liberté . 	0.3150942325592041
+L' amour est tout . 	L' amour , c' est tout . 	0.31436729431152344
+Nous devons faire du sang . 	Il nous faut battre en retraite . 	0.314455509185791
+J' ai commandé du chocolat . 	J' ai commandé de la pizza . 	0.3145911693572998
+Êtes - vous en bonne santé 	Êtes - vous en bonne santé ? 	0.3147909641265869
+Laisse - moi partir . 	Laissez - moi m' en aller ! 	0.31450700759887695
+Quiconque est-il surpris ? 	Qui que ce soit est-il surpris ? 	0.31464076042175293
+Y a -t -il des enfants 	Y a -t -il des enfants ? 	0.3148512840270996
+Il me faut changer de confiance 	Il me faut formuler une objection . 	0.31440186500549316
+Veuillez dire oui ! 	Je te prie de dire oui . 	0.31491851806640625
+Les <unk> sont rarement en haut 	Les <nid> <nid> vers le nord . 	0.31452155113220215
+Peut - être passée la prochaine 	Peut - être la prochaine fois . 	0.31473708152770996
+Aucune des beau n' est belle 	Aucun des deux n' est beau . 	0.3148033618927002
+Nous avons été invitées . 	Nous étions en train de gagner . 	0.3146986961364746
+Le <unk> est <unk> . 	Sortir avec des filles est <nid> . 	0.3142659664154053
+Faites - le ! 	Fais - le à nouveau   ! 	0.3145430088043213
+Qu' est -ce qui vous rend 	Qu' est -ce qui vous mène ? 	0.3145759105682373
+Qu' est -ce que c' est 	Qu' est -ce que c' est ? 	0.31482434272766113
+Je me suis senti à l' 	Je me sentais à l' aise . 	0.3147904872894287
+Tout le monde était en train 	Tout le monde a été vigilant . 	0.31471967697143555
+Est -ce toi ? 	Est -ce que c' est vous ? 	0.31428956985473633
+Je marche habituellement . 	Habituellement je me déplace à pied . 	0.314835786819458
+Veuillez être sérieux . 	Sois sérieuse , je te prie . 	0.3147919178009033
+Fais - moi juste confiance ! 	Fie - toi juste à moi ! 	0.3145315647125244
+Tom a bu un <unk> . 	Tom a bu de la <nid> . 	0.3147010803222656
+Ils sont allés faire du <unk> 	Elles sont allées faire du <nid> . 	0.31455349922180176
+Il a tenté de se suicider 	Il fit une tentative de suicide . 	0.314617395401001
+Tom a -t -il brisé   	Tom s' est - il noyé ? 	0.31453514099121094
+Tom est en train de manger 	Tom est en train de manger . 	0.3147616386413574
+Que dites - vous de demain 	Que dites - vous de demain ? 	0.31413960456848145
+Nous avons échangé des sacrifices . 	Nous <nid> des formules de bienvenue . 	0.31525397300720215
+Je viens de me faire confiance 	Je viens de m' en souvenir . 	0.31656980514526367
+Qu' est -ce que c' est 	Qu’ est -ce que c’ est ? 	0.31501197814941406
+Je me suis senti très bien 	J' ai eu un sentiment merveilleux . 	0.31441450119018555
+Le <unk> est intéressant . 	La cuisine , c' est intéressant . 	0.31427788734436035
+Elle s' est mise en colère 	Elle s' est mise en colère . 	0.31583738327026367
+Nous avons apprécié du blé . 	Nous avons eu plaisir à patiner . 	0.3148806095123291
+Vous êtes <unk> . 	Vous me faites mourir de rire . 	0.31444287300109863
+C' est dépassé . 	C' est du <nid> tout ça . 	0.3146700859069824
+Va les cheveux ! 	Va te faire couper les cheveux ! 	0.3159041404724121
+Ai - je bien compris ? 	Dois - je me dépêcher   ? 	0.3150806427001953
+J' ai fait plaisir à partir 	Je m' en suis bien sorti . 	0.3153219223022461
+Est -ce l' amour   ? 	Est -ce de l' amour   ? 	0.31624770164489746
+Je me suis <unk> de sécurité 	J' y <nid> de tout cœur . 	0.3147873878479004
+Veuillez être prudente . 	Soyez prudentes , je vous prie . 	0.31493330001831055
+Quelque chose s' est - il 	Est - il arrivé quelque chose ? 	0.31456851959228516
+Qui regarde ? 	Qui est en train de regarder ? 	0.31450319290161133
+Elle l' a remercié . 	Elle l' a poursuivi en justice . 	0.31610703468322754
+<unk> - toi   ! 	Prenez vos jambes à votre cou ! 	0.3148934841156006
+Ai - je envie de me 	Est -ce que je me trompe ? 	0.31435656547546387
+Nous avons agi de la guerre 	Nous avons déclaré la guerre . 	0.31417298316955566
+À qui est ceci ? 	À qui est -ce   ? 	0.3152198791503906
+Hier , le dimanche samedi . 	Le dimanche suit le samedi . 	0.31612110137939453
+Veuillez entrer . 	Entrez s' il vous plaît . 	0.31539130210876465
+Je me suis senti <unk> . 	Je me suis sentie <nid> . 	0.315169095993042
+Je me suis vraiment dépêché . 	Je me suis vraiment <nid> . 	0.3146672248840332
+Je me souviens de ça . 	Je me souviens de ça . 	0.31494641304016113
+Tom est-il sur les environs ? 	Tom est-il dans les environs ? 	0.3148465156555176
+Laisse - moi essayer . 	Permettez - moi d' essayer . 	0.31455564498901367
+J' adore gagner . 	J' adore avoir le dessus . 	0.31520605087280273
+Ce sont parfait . 	Ceux - ci sont véritables . 	0.31652283668518066
+Tom s' est fait tirer mauvais 	Tom s' est mal comporté . 	0.31478071212768555
+C' est chouette . 	C' est de l' amour . 	0.31409478187561035
+J' étais dehors . 	J' étais à l' extérieur . 	0.31436705589294434
+Personne ne appelait Tom . 	Personne n' a appelé Tom . 	0.314502477645874
+Prépare - toi à mourir ! 	Préparez - vous à mourir ! 	0.3149604797363281
+Mon bras me fait mal . 	Mon épaule me fait mal . 	0.31450724601745605
+Êtes - vous chez vous ? 	Es - tu chez toi ? 	0.3146364688873291
+J' ai regardé . 	J' ai baissé les yeux . 	0.31474971771240234
+Les hommes sont des animaux . 	Les hommes sont des cochons . 	0.3147616386413574
+Ça a l' air raisonnable . 	Cela a l' air fascinant . 	0.31484389305114746
+Tom semblait déçu . 	Tom avait l' air déçu . 	0.3146958351135254
+Il a loupé la classe . 	Il a manqué la classe . 	0.3148481845855713
+Il a bu de la bière 	Il but de la bière . 	0.3146243095397949
+Nous avons besoin de Tom . 	Nous avons besoin de Tom . 	0.3145761489868164
+L' amour est paresseux . 	N' importe laquelle est acceptable . 	0.314375638961792
+J' ai des <unk> . 	Je dispose de l' <nid> . 	0.3142375946044922
+Ils vont appeler . 	Ils ne cessent d' appeler . 	0.3138282299041748
+Elle t' a fait confiance . 	Elle avait confiance en toi . 	0.31432604789733887
+Je n' ai jamais remarqué . 	Je n' ai jamais remarqué . 	0.31445837020874023
+Tout le monde l' apprécie . 	Tout le monde l' aime . 	0.3141970634460449
+J' ai vu un . 	J' en ai vu une . 	0.31426572799682617
+Tout le monde est fatigué . 	Tout le monde est fatigué . 	0.3143315315246582
+Je me suis senti trahie . 	Je me suis sentie trompé . 	0.31423211097717285
+Peux - tu voir ? 	Arrivez - vous à voir ? 	0.3138916492462158
+Pourrions - nous nous asseoir ? 	Pourrions - nous nous asseoir ? 	0.3147718906402588
+Ça semble super . 	Ça a l' air génial ! 	0.31393003463745117
+Tom <unk> rapidement . 	Tom hocha la tête rapidement . 	0.3140542507171631
+J' ai été pris à la 	J' avais le cœur brisé . 	0.31447720527648926
+Je m' en suis reconnaissant . 	Je m' en rends compte . 	0.3143343925476074
+Quel temps horrible ! 	Quel temps de chien   ! 	0.31404542922973633
+Je suis dure . 	J' éprouve de la compassion . 	0.31440162658691406
+J' étais sur le point de 	Je n' étais pas là . 	0.3150668144226074
+Puis - je aider ? 	Puis - je aider   ? 	0.31482481956481934
+Venez nous rejoindre ! 	Viens te joindre à nous ! 	0.3149991035461426
+Avez - vous gagné ? 	L' as - tu emporté ? 	0.3149991035461426
+Va à la maison , maintenant 	Va chez nous , maintenant . 	0.3146350383758545
+Nous avons songé cela . 	Nous avons songé à ça . 	0.31436753273010254
+Elle jeta des alentours de lumière 	Elle jeta un regard alentour . 	0.3150207996368408
+Tout est allé sans douceur . 	Tout se <nid> en douceur . 	0.314375638961792
+Vous êtes pleine de ressources . 	Vous êtes plein de ressources . 	0.3147437572479248
+Avez - vous décidé ? 	T' es - tu décidé ? 	0.3147406578063965
+Êtes - vous prête ? 	Es - tu prête   ? 	0.3146367073059082
+Il a répondu à la <unk> 	Il répondit de manière incorrecte . 	0.3148491382598877
+Les <unk> ont sauté au gaz 	Les <nid> <nid> les touristes . 	0.314802885055542
+Les deux rirent . 	Les deux filles ont ri . 	0.31418347358703613
+Ai - je des <unk> ? 	Est -ce que je pue ? 	0.3146858215332031
+Ils se sont mis à l' 	Elles ont monté des escaliers . 	0.3148174285888672
+Tom semble perdu . 	Tom a l' air perdu . 	0.31481480598449707
+J' ai été pris à l' 	J' ai pris une <nid> . 	0.3148307800292969
+Je me suis <unk> de sécurité 	Je n' ai aucune réserve . 	0.31472158432006836
+Vous êtes dépourvue d' ambition . 	Vous êtes dépourvus d' ambition . 	0.3146498203277588
+J' ai été pris à l' 	J' ai pris une <nid> . 	0.31468892097473145
+Il faut que c' est qu' 	Il lui faut être lavée . 	0.3148653507232666
+Viens à tous les autres ! 	Viens rencontrer tout le monde ! 	0.3147013187408447
+J' ai effectué des plans . 	J' ai fait des projets . 	0.314633846282959
+Je suis totalement d' accord . 	Je suis entièrement d' accord . 	0.3148026466369629
+C' est <unk> . 	Ce n' est pas satisfaisant . 	0.3148484230041504
+Vous avez l' air européenne . 	Vous avez l' air européen . 	0.314589262008667
+J' ai crié . 	J' ai pris ma retraite . 	0.3145296573638916
+J' ai apporté le vin . 	J' ai apporté du vin . 	0.3150029182434082
+Il vous faut partir . 	Tu dois t' en aller . 	0.3146638870239258
+Elles ont été impressionnés . 	Elles ne furent pas impressionnées . 	0.3145167827606201
+Tom semble gentil . 	Tom a l' air sympa . 	0.3147590160369873
+Les <unk> aiment l' eau . 	Les <nid> aiment l' eau . 	0.3147261142730713
+Maintenant , bois d' un coup 	Finissez votre verre , maintenant ! 	0.31546854972839355
+Vous avez l' air super . 	Vous avez l' air super . 	0.3159821033477783
+Tom a encore aidé . 	Tom a de nouveau aidé . 	0.3167579174041748
+Le savon est <unk> . 	Le chèque était sans <nid> . 	0.3173673152923584
+Es - tu seule ? 	Êtes - vous <nid>   ? 	0.31613945960998535
+Est -ce raisonnable ? 	Est -ce que ça compte ? 	0.31638479232788086
+Rien ne <unk> jamais . 	Rien ne dure pour toujours . 	0.3152625560760498
+J' ai été <unk> . 	Je n' étais pas préparée . 	0.31487298011779785
+Attache ton lacet . 	Noue ton lacet de chaussure . 	0.3163917064666748
+Quelque chose clochait . 	Quelque chose n' allait pas . 	0.315234899520874
+Elle est devenue calme . 	Elle s' est tenue tranquille . 	0.31493043899536133
+Elle est allée faire des emplettes 	Elle alla faire des emplettes . 	0.31489133834838867
+Nous devons discuter . 	Il nous faut nous parler . 	0.3157181739807129
+Nous avons eu besoin de ceci 	Nous avions besoin de ça . 	0.3151860237121582
+Où êtes - vous ? 	Où es - tu   ? 	0.3142242431640625
+J' ai besoin de toi . 	J' ai besoin de vous . 	0.31438446044921875
+C' est la mienne . 	Il s' agit du mien . 	0.3157641887664795
+Peux - tu conduire ? 	Sais - tu conduire   ? 	0.3149435520172119
+Mon <unk> me fait mal . 	J' ai mal au <nid> . 	0.314633846282959
+Elle est allée au - dessus 	Elle est allée en haut . 	0.31482696533203125
+Personne ne m' a <unk> . 	Personne ne me rend grâce . 	0.31563735008239746
+Je dois présenter mes excuses . 	Je dois faire mes excuses . 	0.31525492668151855
+Elle l' a surpris . 	Elle l' a fait sursauter . 	0.314847469329834
+C' est <unk> . 	Ce n' est pas sécurisé . 	0.31479501724243164
+Tu iras en premier . 	Vas - y d' abord . 	0.31438612937927246
+Vous avez l' air satisfaite . 	Vous avez l' air satisfait . 	0.3140909671783447
+Où sont tous les autres ? 	Où sont - ils tous ? 	0.3141758441925049
+C' est absurde . 	Ce n' est pas sûr . 	0.31458210945129395
+Tout le monde est heureux . 	Tout le monde est content . 	0.3147413730621338
+Choisis des livres avec soin . 	Choisis les livres avec soin . 	0.31577563285827637
+Tout le monde est excitée . 	Tout le monde est excité . 	0.3159201145172119
+Êtes - vous sûres ? 	Êtes - vous sûre   ? 	0.31446051597595215
+Suis - je tort ? 	Me trompé - je   ? 	0.3149411678314209
+Êtes - vous blessée ? 	Vous êtes - vous blessées ? 	0.31456851959228516
+Elles vous faisaient confiance . 	Elles vous ont fait confiance . 	0.31520652770996094
+Je me suis senti responsable . 	Je me suis senti responsable . 	0.3149092197418213
+Vous avez l' air super . 	Vous avez l' air terrible . 	0.31502628326416016
+J' ai entendu des voix . 	J' ai entendu des voix . 	0.314929723739624
+N' importe qui peut participer . 	Tout le monde peut participer . 	0.3147423267364502
+Je suis allé chez moi . 	J' allais à la maison . 	0.3146250247955322
+Vous avez l' air intelligent . 	Vous avez l' air intelligente . 	0.3147280216217041
+Elle prit du poids . 	Elle a pris du poids . 	0.3146381378173828
+Tom commença à courir . 	Tom a commencé à crier . 	0.31508445739746094
+Nous avons besoin de volontaires . 	Nous avons besoin d' exercice . 	0.3146524429321289
+Je me suis senti heureux . 	Je me suis senti heureux . 	0.31467771530151367
+Tout le monde me connaît . 	Tout le monde me connait . 	0.31467270851135254
+Sont - ce là ? 	Ce sont les vôtres   ? 	0.3149690628051758
+L' amour est paresseux . 	N' importe lequel est acceptable . 	0.3145296573638916
+Avez - vous décidé ? 	Vous êtes - vous décidés ? 	0.31442856788635254
+J' ai arrêté de fumer . 	J' ai cessé de fumer . 	0.31496119499206543
+Quelqu' un vous a vues . 	Quelqu' un t' a vue . 	0.3147287368774414
+Elles ont découvert la sortir . 	Elles ont découvert la chose . 	0.31494760513305664
+Elle avait l' air seule . 	Elle avait l' air seule . 	0.31446218490600586
+Es - tu seul ? 	Es - tu seule   ? 	0.31415271759033203
+Je <unk> des biscuits . 	J' ai confectionné des biscuits . 	0.31412816047668457
+Vous avez tout foutu en l' 	Vous avez tout fait foirer . 	0.31432318687438965
+Nous sommes fiable . 	Nous sommes <nid> de confiance . 	0.3142514228820801
+Nous aimons discuter . 	Nous avons plaisir à parler . 	0.314072847366333
+J' étais <unk> . 	J' avais dépassé les <nid> . 	0.31406259536743164
+Nous devons intervenir . 	Il nous faut nous retirer . 	0.3143155574798584
+Qui t' a appelé ? 	Qui vous a appelé   ? 	0.3142120838165283
+Tom avait l' air intéressé . 	Tom avait l' air intéressé . 	0.314439058303833
+Mon horloge me fait mal . 	Mon estomac me fait mal . 	0.314225435256958
+Tu m' as besoin de moi 	Tu avais besoin de moi . 	0.3140866756439209
+J' ai failli me noyer . 	Je me suis presque noyé . 	0.3139374256134033
+Tout le monde aime Tom . 	Tout le monde aime Tom . 	0.31424641609191895
+Les oiseaux <unk> les <unk> . 	La foudre <nid> le <nid> . 	0.3138759136199951
+J' ai fait deux fois . 	J' en ai fait deux . 	0.31447768211364746
+J' ai mangé du <unk> . 	J' ai mangé du <nid> . 	0.31481218338012695
+Nous avons trouvé quelque chose . 	Nous avons trouvé quelque chose . 	0.3143155574798584
+Tout le monde resta debout . 	Tout le monde resta debout . 	0.31411242485046387
+Nous avons besoin de volontaires . 	Nous avons besoin d' outils . 	0.31418466567993164
+Elle adore faire des emplettes . 	Elle adore faire les courses . 	0.31395864486694336
+Laisse - moi partir   ! 	Laissez - moi partir   ! 	0.31389284133911133
+Est -ce arrivé ? 	Cela fait - il mal ? 	0.31419968605041504
+Nous avons besoin de preuves . 	Il nous faut des preuves . 	0.3141672611236572
+Quelqu' un vient . 	Quelqu' un est en train . 	0.3138761520385742
+Tom semble jeune . 	Tom a l' air jeune . 	0.3138587474822998
+Le <unk> est populaire . 	Il est illégal de <nid> . 	0.31389474868774414
+Je suis en bonne santé . 	Je suis en bonne santé . 	0.3138844966888428
+Tout le monde les apprécie . 	Ils sont <nid> de tous . 	0.31386852264404297
+Elle a l' air agréable . 	Elle a l' air sympa . 	0.31417226791381836
+Que dites - vous de courir 	Et s' ils <nid>   ? 	0.3144545555114746
+Les <unk> sont <unk> . 	Les <nid> deviennent des grenouilles . 	0.31461024284362793
+Je me sens super . 	Je me sens à merveille . 	0.314894437789917
+J' ai finalement gagné . 	J' ai fini par gagner . 	0.31463193893432617
+Tout le monde est choqué . 	Tout le monde est choqué . 	0.31476712226867676
+Je suis puissante . 	Je ne suis pas content . 	0.3145780563354492
+Vous avez l' air beau . 	Tu as l' air beau . 	0.3146371841430664
+Faites de votre mieux   ! 	Fais de ton mieux   ! 	0.3146333694458008
+J' ai besoin de pouvoirs . 	J' ai besoin d' Internet . 	0.3145260810852051
+J' ai entendu quelque chose . 	J' ai entendu quelque chose . 	0.31488537788391113
+Les oiseaux sont des animaux . 	Les chevaux sont des animaux . 	0.3146858215332031
+Je suis pleine de ressources . 	Je suis pleine de ressources . 	0.31482672691345215
+Vous êtes dépourvue d' ambition . 	Vous êtes dépourvu d' ambition . 	0.3147766590118408
+Elles ont l' air calmes . 	Elles ont l' air détendues . 	0.3153400421142578
+Ils nous ont rendu visite . 	Elles nous ont rendu visite . 	0.3171653747558594
+Vous avez l' air gros . 	Vous avez l' air grosse . 	0.31517529487609863
+Ça avait l' air frais . 	Ça avait l' air frais . 	0.3148934841156006
+Je me suis senti trahie . 	Je me suis sentie trahi . 	0.31639695167541504
+Je dois me concentrer . 	Il me faut me concentrer . 	0.31623411178588867
+Vous aimez tout le monde . 	Vous appréciez tout le monde . 	0.3156454563140869
+Tout le monde était là . 	Tout le monde était là . 	0.3163642883300781
+Les <unk> sont faire des touristes 	Les relations <nid> des compromis . 	0.3159034252166748
+Ça a l' air super . 	Ça a l' air génial . 	0.3162193298339844
+Il a l' air familier . 	Il me semble le connaître . 	0.31588196754455566
+Iras - tu ? 	T' y rendras - tu ? 	0.3168599605560303
+Faites - le plus petit . 	Rends - la plus petite . 	0.3153815269470215
+Il avait été diplômé . 	Il avait de l' ambition . 	0.31456851959228516
+J' ai apporté des biscuits . 	J' ai apporté des biscuits . 	0.3159363269805908
+Je me suis senti responsable . 	Je me suis sentie responsable . 	0.3165318965911865
+J' ai apporté le mien . 	J' ai apporté la mienne . 	0.31554269790649414
+Aide - moi à sortir ! 	Aidez - moi à sortir . 	0.314927339553833
+Je suis fiable . 	On peut me faire confiance . 	0.31539392471313477
+Tout le monde a attendu . 	Toutes les autres ont attendu . 	0.3175981044769287
+Est -ce l' amour   ? 	Est -ce de l' amour ? 	0.3150508403778076
+Elle a l' air jeune . 	Elle a l' air jeune . 	0.3151111602783203
+Veuillez vous montrer . 	Je vous prie de revenir . 	0.3154945373535156
+Attends jusqu' à six heures . 	Attendez jusqu' à dix-huit heures . 	0.3157658576965332
+Il semble heureux . 	Il a l' air heureux . 	0.31517815589904785
+Êtes - vous perdu ? 	Êtes - vous perdue   ? 	0.31501173973083496
+Ça a semblé bizarre . 	Ça avait l' air bizarre . 	0.31486964225769043
+Êtes - vous blessée ? 	T' es - tu blessé ? 	0.3145627975463867
+Je vous ai confiance . 	Je me fie à toi . 	0.314302921295166
+Ils ont fait les mains . 	Elles se tenaient les mains . 	0.3144979476928711
+N' importe qui le sait . 	Tout le monde le sait . 	0.3156869411468506
+Tout le monde a été horrifié 	Tout le monde fut horrifié . 	0.3149588108062744
+Trouve quelqu' un d' autre ! 	Trouvez quelqu' un d' autre . 	0.3145759105682373
+Elles ont l' air triste . 	Ils ont l' air triste . 	0.31446051597595215
+Il y avait des survivantes . 	Il y avait des survivants . 	0.31461620330810547
+Je suis totalement d' accord . 	Je suis en total désaccord . 	0.3146214485168457
+Je dois insister . 	Je dois soulever une <nid> . 	0.31406092643737793
+Comment êtes - vous ? 	Comment allez - vous   ? 	0.31380748748779297
+Laisse - moi tranquille   ! 	Laisse - moi tranquille   ! 	0.31400203704833984
+Ça s' est déroulé . 	Ça s' est bien passé . 	0.3141162395477295
+Tout le monde est heureux . 	Tout le monde est heureux . 	0.3142678737640381
+Revenez à la maison . 	Reviens à la maison . 	0.31427574157714844
+Appelle - lui demain . 	Appelle - la demain . 	0.3144185543060303
+Nous sommes arrivés en premier . 	Nous arrivâmes les premiers . 	0.31450653076171875
+Les affaires sont en train de 	Les affaires s' <nid> . 	0.31462979316711426
+Êtes - vous sourd ? 	Êtes - vous sourde ? 	0.3147714138031006
+J' ai été impressionnée . 	J' ai été impressionné . 	0.31473660469055176
+Le <unk> est important . 	Le repos est important . 	0.31474924087524414
+N' y fais simplement pas attention 	Ignore - le simplement ! 	0.3144404888153076
+Tom enseigne l' histoire . 	Tom enseigne l' histoire . 	0.3148500919342041
+Je t' ai vue . 	Je vous ai vus . 	0.3149232864379883
+Sont - ils bonnes ? 	Étaient - ils bons ? 	0.31434035301208496
+Où suis - je ? 	Où suis - je ? 	0.31432032585144043
+Vous me manquez . 	Tu m' as déçu . 	0.314713716506958
+Je suis faible . 	Je suis rassasié   ! 	0.3147714138031006
+Ils se sont arrêtés de rire 	Ils <nid> de rire . 	0.31599950790405273
+C' est idiot . 	C' est idiot   ! 	0.31470704078674316
+Prends un truc ! 	Fais un petit somme ! 	0.31449389457702637
+<unk> - la bien . 	<nid> - la bien . 	0.3144972324371338
+J' étais prête . 	J' y étais prêt . 	0.31450772285461426
+Je suis dure . 	Je suis au chômage . 	0.31458377838134766
+J' ai terminé la première chose 	J' ai terminé premier . 	0.314547061920166
+Nous sommes même . 	Nous sommes à égalité . 	0.3147132396697998
+J' aime les énigmes . 	J’ aime les chameaux . 	0.3148024082183838
+Je l' ai appelée . 	Je l' ai annulée . 	0.31464171409606934
+Je <unk> la violence . 	Je déteste la violence . 	0.31493258476257324
+J' adore le café . 	J' adore le café . 	0.31527161598205566
+Mange plus de légumes ! 	Mangez plus de légumes . 	0.31427669525146484
+Faites un jour ! 	Bonne journée à vous ! 	0.3144392967224121
+Je me le rappelle . 	Je m' en souviens . 	0.3140277862548828
+Vous avez l' air super . 	Ton parfum est délicieux . 	0.3139803409576416
+Le français est-il difficile ? 	Le français est-il difficile ? 	0.3143651485443115
+Nous sommes en sécurité . 	Nous sommes en sécurité . 	0.3140237331390381
+J' ai des droits . 	Je dispose de droits . 	0.3147878646850586
+Je me sens investi de pouvoirs 	Je me sens mal . 	0.3144237995147705
+Tom a changé de travail . 	Tom changea de travail . 	0.3139979839324951
+C' était calme . 	C' était moins une . 	0.31414079666137695
+Des erreurs ont été <unk> . 	Des erreurs furent <nid> . 	0.31458115577697754
+Rien n' a changé . 	Rien n' a changé . 	0.3140127658843994
+Je me suis détendu . 	Je me suis remarié . 	0.31438159942626953
+J' aime le lait . 	J' aime le lait . 	0.31415390968322754
+Elle sourit sans voix . 	Elle sourit avec bonheur . 	0.31423234939575195
+Je me suis endormi . 	Je me suis endormie . 	0.31432676315307617
+Êtes - vous perdu ? 	Es - tu perdue ? 	0.31415486335754395
+J' aime la soupe . 	J' aime le jaune . 	0.314253568649292
+J' aime les mathématiques . 	J' aime les maths . 	0.31456947326660156
+Avez - vous peur ? 	Avez - vous peur ? 	0.3142969608306885
+Faites - le vite ! 	Fais - le vite ! 	0.3138306140899658
+Nous avons éclaté . 	Nous <nid> de rire . 	0.31403183937072754
+Il est occupé . 	Il a à faire . 	0.3136880397796631
+Veuillez vous montrer polie . 	Veuillez vous montrer poli . 	0.3138582706451416
+Il faut que c' est qu' 	On doit le laver . 	0.31414031982421875
+Laissez - nous tranquille ! 	Laisse - nous tranquilles ! 	0.3141489028930664
+Êtes - vous chauve ? 	Es - tu chauve ? 	0.3148200511932373
+La guerre est mauvaise . 	La guerre est mauvaise . 	0.31478190422058105
+Je veux le temps . 	Je veux du temps . 	0.31548333168029785
+Vous êtes en premier . 	Tu passes en premier . 	0.3159165382385254
+Suis - je gros ? 	Suis - je gros ? 	0.31609058380126953
+J' adore le pain . 	J' adore le pain . 	0.316361665725708
+Veuillez tourner tout droit . 	Veuillez tourner à droite . 	0.3162708282470703
+Je me suis senti déprimé . 	Je me sentis déprimée . 	0.3164501190185547
+Nous vous avons attrapée . 	Nous t' avons attrapé . 	0.31546807289123535
+Il m' a eu peur . 	Il m' a <nid> . 	0.3149747848510742
+Êtes - vous jalouse ? 	Êtes - vous <nid> ? 	0.31501054763793945
+Qui t' a recruté ? 	Qui vous a recrutés ? 	0.31630778312683105
+Je déteste les <unk> . 	Je déteste le karaoké . 	0.3159184455871582
+Tenez - vous droite ! 	Tiens - toi droit ! 	0.3151111602783203
+La pendule arrêta . 	L' horloge s' arrêta . 	0.3149893283843994
+Tom aime le baseball . 	Tom aime la pêche . 	0.315993070602417
+Êtes - vous sûres ? 	Es - tu sûr ? 	0.3157463073730469
+Répondez le téléphone ! 	Répondez au téléphone   ! 	0.31624889373779297
+Tom enseigne le français . 	Tom enseigne le français . 	0.31482768058776855
+Nous sommes en train de faire 	Nous sommes au régime . 	0.31473803520202637
+J' étais prudente . 	J' ai été prudent . 	0.31479668617248535
+Êtes - vous debout ? 	Êtes - vous levés ? 	0.31478047370910645
+Attends jusqu' à demain . 	Attends jusqu' à demain . 	0.31511545181274414
+Tom ne vient jamais . 	Tom ne vient jamais . 	0.31649231910705566
+Es - tu en train de 	Travaillez - vous   ? 	0.31508469581604004
+Tom a finalement ri . 	Tom finit par avouer . 	0.31447792053222656
+J' aime la mathématiques . 	J' aime les maths . 	0.314211368560791
+J' adore l' aventure . 	J' adore l' arabe . 	0.3148014545440674
+Je déteste les oiseaux . 	Je déteste les insectes . 	0.314622163772583
+Tom veut être impliquée . 	Tom veut se <nid> . 	0.31520915031433105
+Je l' ai <unk> . 	Je l' ai conçu . 	0.31655311584472656
+Laisse - la tranquille . 	Laissez - la tranquille ! 	0.31479525566101074
+J' aime faire des promenades . 	Je prends des vitamines . 	0.31466245651245117
+Nous avons mangé ensemble . 	Nous avons mangé ensemble . 	0.31427645683288574
+Peux - tu développer ? 	Savez - vous siffler ? 	0.314068078994751
+Qui t' a recruté ? 	Qui vous a recrutée ? 	0.3146548271179199
+J' aime le riz . 	J' aime le riz . 	0.3141183853149414
+Ils ont <unk> Tom . 	Ils ont <nid> Tom . 	0.313554048538208
+Qui l' a construit   ? 	Qui l' a <nid> ? 	0.31415557861328125
+Je suis seul . 	Je me sens seule . 	0.3145132064819336
+Je t' ai sauvé . 	Je vous ai sauvées . 	0.3140857219696045
+Laisse - moi payer . 	Laisse - moi payer . 	0.31445813179016113
+J' adore la pauvreté . 	J' aime la Californie . 	0.31504082679748535
+C' est la mienne . 	C' est le mien . 	0.31505465507507324
+Laisse - moi expliquer . 	Laisse - moi expliquer . 	0.3145875930786133
+Il a du vin . 	Il a du vin . 	0.31450343132019043
+Je me sens vieille . 	Je me sens vieux . 	0.3147568702697754
+Nous devons discuter . 	Il nous faut discuter . 	0.3147854804992676
+Je me suis amusé . 	Je me suis amusée . 	0.31464433670043945
+Ce sont les miennes . 	Ce sont les miens . 	0.3146169185638428
+J' aime les chats . 	J’ aime les chats . 	0.31459927558898926
+Laisse - le entrer . 	Laissez - le entrer . 	0.3145608901977539
+Je me sens trahie . 	Je me sens trahi . 	0.3146984577178955
+Je t' ai suivi . 	Je t' ai suivie . 	0.31474757194519043
+J' ai été <unk> . 	J' ai été <nid> . 	0.31499385833740234
+Ils aiment l' anglais . 	L' anglais leur plaît . 	0.3147163391113281
+<unk> - la bien . 	<nid> - la bien . 	0.3148505687713623
+Les <unk> sont chers . 	Les noisettes sont <nid> . 	0.3147249221801758
+J' ai des devoirs . 	J' ai des devoirs . 	0.31471776962280273
+Tom a <unk> des sandwichs . 	Tom collectionne les antiquités . 	0.31455564498901367
+J' ai été <unk> . 	J' étais sans <nid> . 	0.31459999084472656
+Je suis déprimé . 	J' en ai terminé . 	0.3143305778503418
+Elles m' ont enlevée . 	Elles m' ont enlevé . 	0.3146240711212158
+C' est suffisant . 	C' en est assez ! 	0.3146555423736572
+Il est mort hier . 	Il est décédé hier . 	0.31476473808288574
+Êtes - vous fatigué ? 	Êtes - vous fatiguées ? 	0.31482696533203125
+Êtes - vous jeunes ? 	Es - tu jeune ? 	0.31436967849731445
+Tom boit du café . 	Tom boit du café . 	0.3143324851989746
+Elles l' ont mérité . 	Ils l' ont mérité . 	0.314288854598999
+Vous êtes presque morts . 	Vous êtes presque morte . 	0.31422853469848633
+Quel est le bonheur ? 	Qu' est le bonheur ? 	0.3142812252044678
+Est - il mort ? 	Est - il décédé ? 	0.3143045902252197
+Elles le trouvèrent . 	Elles l' ont trouvé . 	0.3142998218536377
+Je me sens <unk> . 	Je me sens <nid> . 	0.31412792205810547
+Je l' ai cassée . 	Je l' ai cassé . 	0.31436944007873535
+Il m' a ignoré . 	Il m' a <nid> . 	0.313701868057251
+J' étais prête . 	J' y étais prête . 	0.3145003318786621
+Personne ne appelait Tom . 	Personne n' appela Tom . 	0.31461358070373535
+Arrête ici ! 	Arrête - toi ici ! 	0.31426382064819336
+Est -ce sérieux ? 	C' est grave   ? 	0.31410861015319824
+Il est mort récemment . 	Il est récemment décédé . 	0.31417298316955566
+Je me sens drôle . 	Je me sens bizarre . 	0.3143150806427002
+Je me sens perdue . 	Je me sens honteuse . 	0.3143646717071533
+Je t' ai fait confiance . 	Je te fis confiance . 	0.31418871879577637
+Personne ne l' a mentionné . 	Personne n' a triché . 	0.3140525817871094
+Nous t' avons manqué . 	Vous nous avez manqué . 	0.31438255310058594
+Laisse - la dormir . 	Laisse - la dormir . 	0.31475067138671875
+La sécurité est meilleure . 	Le rouge est mieux . 	0.31426215171813965
+Est -ce sérieux ? 	Est -ce sérieux   ? 	0.3144400119781494
+Tom a clairement menti . 	Tom a manifestement menti . 	0.3146390914916992
+Laisse - la dormir . 	Laissez - la dormir . 	0.31489062309265137
+Tout le monde a attendu . 	Tous les autres attendirent . 	0.3142068386077881
+Ils l' ont demandé . 	Ils lui ont demandé . 	0.3145639896392822
+Il a presque fonctionné . 	Ça a failli marcher . 	0.3146817684173584
+J' ai été <unk> . 	J' ai été drogué . 	0.31434178352355957
+Va chercher votre mère ! 	Va chercher ta mère ! 	0.3145110607147217
+Elle aime le vin . 	Elle aime le vin . 	0.3149693012237549
+Ça ne change rien . 	Ça ne change rien . 	0.31420445442199707
+Elle l' a frappé . 	Elle l' a poignardé . 	0.3156094551086426
+Je me suis réveillé . 	Je me suis éveillé . 	0.31691646575927734
+Où est en train d' étudier 	Où se trouve Paris ? 	0.31550145149230957
+Je t' ai cru . 	Je vous ai cru . 	0.31584858894348145
+Je préfère les chiens . 	Je préfère les chiens . 	0.3167147636413574
+Rien n' est étrange . 	Rien n' est étrange . 	0.3172001838684082
+Le changement est inévitable . 	Le changement est inévitable . 	0.3164346218109131
+Ils ont des <unk> . 	Ils ont des <nid> . 	0.31600093841552734
+Je suis en train de me 	Je fais du bénévolat . 	0.31708478927612305
+Ils ont <unk> des <unk> . 	Ils <nid> les <nid> . 	0.31517982482910156
+Ils l' ont demandé . 	Elles lui ont demandé . 	0.3141136169433594
+Vous êtes presque morts . 	Tu es presque morte . 	0.3157362937927246
+Ils vivent en bas . 	Elles vivent en bas . 	0.3150050640106201
+Tom est seul . 	Tom est tout seul . 	0.3143026828765869
+Nous voulons des réponses . 	Nous voulons des réponses . 	0.31399083137512207
+Je déteste le lundi . 	Je déteste les lundis . 	0.3161427974700928
+J' ai dit de tricher . 	J' ai dit stop . 	0.31511807441711426
+Êtes - vous heureuses ? 	Êtes - vous contente ? 	0.31485772132873535
+Je me suis occupé . 	Je suis devenu occupé . 	0.3149604797363281
+Je vous prie de vous . 	Je vous en <nid> . 	0.3154168128967285
+Laissez - moi vérifier . 	Laisse - moi vérifier . 	0.31525373458862305
+Tiens - toi bien ! 	Accroche - toi bien ! 	0.31576013565063477
+Ils sont flics . 	Ce sont des flics . 	0.3144698143005371
+Devrais - je venir ? 	Devrais - je venir ? 	0.31469106674194336
+Elle vend des fleurs . 	Elle vend des fleurs . 	0.3142678737640381
+J' ai besoin d' avoir besoin 	J' ai des besoins . 	0.3143324851989746
+Tom est <unk> . 	Tom est sans pitié . 	0.31533050537109375
+Il aima cela . 	Il a apprécié cela . 	0.3161346912384033
+Qui a peint ça ? 	Qui a peint cela ? 	0.3148787021636963
+Vous étiez parfaits . 	Vous avez été parfait . 	0.31493711471557617
+Rien ne se produit . 	Rien n' a lieu . 	0.31449007987976074
+J' aime les bananes . 	J' aime les sucreries . 	0.31417131423950195
+Elles s' amusèrent . 	Elles se sont amusées . 	0.3137812614440918
+Je suis trente ans . 	J' ai trente ans . 	0.3143024444580078
+J' en ai besoin . 	Il me faut ça . 	0.31415629386901855
+Je veux des détails . 	Je veux des détails . 	0.313828706741333
+Est -ce que ça commence ? 	Se produit - il ? 	0.3142850399017334
+Elle a travaillé dur . 	Elle a travaillé dur . 	0.31476926803588867
+Il boit du cancer . 	Il pratique la médecine . 	0.314943790435791
+Je me suis senti trahie . 	Je me sentis trompée . 	0.31472325325012207
+Notre équipe a perdu . 	Notre équipe a perdu . 	0.31526875495910645
+J' ai terminé . 	J' en ai terminé . 	0.31491827964782715
+Je vends des ordinateurs . 	Je vends des ordinateurs . 	0.3146646022796631
+Je l' ai ignoré . 	Je l' ai ignoré . 	0.31425905227661133
+J' ai des informations . 	Je dispose d' informations . 	0.31470680236816406
+Je veux des enfants . 	Je veux des enfants . 	0.31494855880737305
+J' adore les blagues . 	J' adore les jeux . 	0.31477785110473633
+Nous vous avons vues . 	Nous vous avons vus . 	0.3144955635070801
+Est -ce libre ? 	C' est gratuit   ? 	0.31482625007629395
+Vous êtes des <unk> . 	Vous êtes un opportuniste . 	0.3146548271179199
+Je suis en premier . 	Je suis en premier . 	0.3148975372314453
+Pouvons - nous arrêter ? 	Pouvons - nous arrêter ? 	0.3291342258453369
+Il fut invité . 	Il a été invité . 	0.3159630298614502
+Il aima cela . 	Il a aimé ça . 	0.3147599697113037
+Il écrit des livres . 	Il écrit des livres . 	0.31430888175964355
+C' est mal ici . 	J' ai mal ici . 	0.3144989013671875
+Il marchait . 	Il s' en alla . 	0.31441473960876465
+Avez - vous terminé ? 	Avez - vous fini ? 	0.3145122528076172
+On m' a prévenu . 	J' ai été prévenue . 	0.3147268295288086
+Prends ton soirée ! 	Passe une bonne soirée ! 	0.3139660358428955
+Nous pouvons gagner . 	Nous pouvons l' emporter . 	0.31400465965270996
+Elle aime dormir . 	Elle apprécie de dormir . 	0.31415319442749023
+Faites de votre mieux . 	Faites de votre mieux . 	0.31429171562194824
+<unk> l' oiseau ! 	<nid> l' oiseau   ! 	0.314208984375
+Tom lui fait confiance . 	Tom lui fait confiance . 	0.31450724601745605
+Nous nous demande pourquoi . 	On se demande pourquoi . 	0.31496500968933105
+J' ai été dégoûté . 	J' ai été dégoûtée . 	0.31471943855285645
+J' adore la vie . 	J' adore la vie . 	0.314589262008667
+Je suis pleine de ressources . 	Je cultive des tomates . 	0.31473278999328613
+Qu' est -ce qui ne va 	Quoi de beau   ? 	0.31459593772888184
+Ça sent délicieux . 	Cela sent <nid> bon . 	0.3145580291748047
+C' est moi   ! 	C' est <nid>   ! 	0.31479597091674805
+Laisse - moi essayer . 	Laissez - moi essayer . 	0.3148081302642822
+Es - tu occupée ? 	Êtes - vous occupée ? 	0.3141591548919678
+Il les a sauvés . 	Il les a <nid> . 	0.3149070739746094
+C' est la sienne . 	Ce sont les siennes . 	0.3144209384918213
+Je t' ai fait confiance . 	Je t' ai motivé . 	0.3148834705352783
+Elle le frappa . 	Elle l' a <nid> . 	0.31485915184020996
+J' ai été paralysé . 	
