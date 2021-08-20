@@ -14,3 +14,6 @@
 
     python3 test.py -trainedModel ./checkpoints/model1/best.chkpt 
             
+
+#### Note
+File `Trace.py` is identical to `train.py` but with NVTX traces. The file is meant to be run to trace the GPU time of each code segment.
